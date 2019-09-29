@@ -1,0 +1,11 @@
+Project Title - TOURISM
+BRIEF IDEA :- 
+Our Idea's Title is NOVATURIENT, A feeling that pushes you to Travel,Eat and Explore more.
+Where we have developed:-
+-> A Site which shows all the Tourist places near you and also the Underrated Place where a Tourist can Entertain Him/Her Self
+-> The Tags of Places which are good to go with Friends Family and Partner
+-> Added some of the Not Well-Known but Best to Hangout/Chill
+-> To Develop culture to some places which are not yet Cultured by Increasing recommendation to a particular place
+-> Recognition of Place where the image taken using Machine Learning and OPENCV
+-> Recommending the Current and Upcoming Event on basis of Personal Interest
+-> And Much more addition Features
